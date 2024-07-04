@@ -1,0 +1,7 @@
+storage
+package
+node_modules
+*.lnk
+*.env.*
+*.env
+.env
